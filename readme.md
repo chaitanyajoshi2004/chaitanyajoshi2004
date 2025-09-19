@@ -1,12 +1,9 @@
-Applying the requested changes requires replacing the static `.svg` icons with animated ones. Since Markdown and standard HTML don't support animated SVGs out of the box in the same way they do for simple image files, we'll need to use `<img>` tags pointing to animated SVG files or use a library that handles Lottie animations, which are commonly used for this purpose.
 
-For this example, I'll use Lottie files, a popular choice for high-quality, professional-looking animations. Lottie animations are typically JSON files that can be rendered on a webpage using a small JavaScript player. This provides a professional, non-cyberpunk feel with smooth, subtle motions.
-
-Here is the updated professional dark theme with animated icons for your tech stack and social media links.
+### Full Code with Static SVG Icons
 
 ```markdown
-<div style="background-color: #121212; padding: 40px; border-radius: 12px; border: 1px solid #333; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);">
-  <h1 align="center" style="color: #E0E0E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center" style="background-color: #121212; padding: 40px; border-radius: 12px; border: 1px solid #333; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);">
+  <h1 style="color: #E0E0E0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FF88&background=121212&center=true&vCenter=true&width=900&lines=Chaitanya+Anil+Joshi;Computer+Engineering+Student;Cybersecurity+Enthusiast;Flutter+Developer;Python+Automation" alt="Typing SVG" style="filter: drop-shadow(0 0 5px #00FF88);" />
   </h1>
 </div>
@@ -30,37 +27,37 @@ Here is the updated professional dark theme with animated icons for your tech st
 
   <h3 style="color: #00FF88;">🚀 Languages</h3>
   <p align="center">
-    <a href="https://www.python.org/" target="_blank"><img src="https://assets.lottiefiles.com/avatars/e5zQkE4b12s1l1D.gif" width="100"/></a>
-    <a href="https://dart.dev/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_t82q5x6p.json" width="100"/></a>
-    <a href="https://www.java.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_t5m0k9l2.json" width="100"/></a>
-    <a href="https://isocpp.org/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_z9t6h68c.json" width="100"/></a>
-    <a href="https://www.javascript.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_v9458h4t.json" width="100"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>
   </p>
 
   <h3 style="color: #00FF88;">📱 Mobile & Frontend</h3>
   <p align="center">
-    <a href="https://flutter.dev/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_2g9aewl7.json" width="100"/></a>
-    <a href="https://www.android.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_z9t6h68c.json" width="100"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_a1x89oxt.json" width="100"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_e3k8j8p8.json" width="100"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_o0b8h8z8.json" width="100"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>
   </p>
-  
+
   <h3 style="color: #00FF88;">🔧 Backend & Databases</h3>
   <p align="center">
-    <a href="https://nodejs.org/en/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_c6o9y0r0.json" width="100"/></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_8t6m0o7u.json" width="100"/></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_g5b9d3v8.json" width="100"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_z9t6h68c.json" width="100"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_f1w0r1q5.json" width="100"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80"/>
   </p>
 
   <h3 style="color: #00FF88;">☁️ DevOps & Cloud</h3>
   <p align="center">
-    <a href="https://www.docker.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_q7g5o8t8.json" width="100"/></a>
-    <a href="https://kubernetes.io/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_w5o2r6j1.json" width="100"/></a>
-    <a href="https://github.com/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_3y3x3p6n.json" width="100"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_e3k8j8p8.json" width="100"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"/>
   </p>
 </div>
 
@@ -110,15 +107,15 @@ Here is the updated professional dark theme with animated icons for your tech st
 <div style="background-color: #1a1a1a; padding: 30px; border-radius: 10px; margin-top: 30px; border: 1px solid #2a2a2a; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
   <h2 style="color: #00FF88; border-bottom: 2px solid #00FF88; padding-bottom: 10px;">📡 Hacker Contact</h2>
   <p align="center">
-    <a href="mailto:joshichaitanya2611@gmail.com" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_e3k8j8p8.json" width="100"/></a>
-    <a href="https://linkedin.com/in/chaitanya-anil-joshi" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_j3w0d8v7.json" width="100"/></a>
-    <a href="https://github.com/chaitanyajoshi2004" target="_blank"><img src="https://assets.lottiefiles.com/packages/lf20_3y3x3p6n.json" width="100"/></a>
+    <a href="mailto:joshichaitanya2611@gmail.com"><img src="https://img.icons8.com/fluency/96/00FF88/gmail.png" width="70"/></a>
+    <a href="https://linkedin.com/in/chaitanya-anil-joshi"><img src="https://img.icons8.com/fluency/96/00FF88/linkedin.png" width="70"/></a>
+    <a href="https://github.com/chaitanyajoshi2004"><img src="https://img.icons8.com/fluency/96/00FF88/github.png" width="70"/></a>
   </p>
 </div>
 
 ---
 
-<div style="background-color: #121212; padding: 20px; border-radius: 12px; margin-top: 30px; border: 1px solid #333; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);">
-  <h3 align="center" style="color: #00FF88; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💀 Hack The Future | Secure The Present 💀</h3>
+<div align="center" style="background-color: #121212; padding: 20px; border-radius: 12px; margin-top: 30px; border: 1px solid #333; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);">
+  <h3 style="color: #00FF88; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">💀 Hack The Future | Secure The Present 💀</h3>
 </div>
 ```
