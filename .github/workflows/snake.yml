@@ -1,14 +1,8 @@
-
-# ⚙️ GitHub Actions Workflow (for Snake Animation)
-
-> 📌 Save this as: `.github/workflows/snake.yml` in your repo  
-
-```yaml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -18,13 +12,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Generate snake.svg
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: chaitanyajoshi2004
-          outputs: dist/snake.svg dist/snake-dark.svg?palette=github-dark
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
