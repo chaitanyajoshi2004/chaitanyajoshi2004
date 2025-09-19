@@ -1,138 +1,110 @@
-<!-- Typing Banner -->
+<!-- Hacker Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hello,+I'm+Chaitanya+Anil+Joshi;💻+Computer+Engineering+Student;🚀+Flutter+%7C+Python+%7C+Cybersecurity;✨+Always+Exploring+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=👨‍💻+Chaitanya+Anil+Joshi;💻+Computer+Engineering+Student;🛡️+Cybersecurity+Learner;📱+Flutter+Developer;🐍+Python+Automation" alt="Typing SVG" />
 </h1>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="mailto:joshichaitanya2611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/chaitanya-anil-joshi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/chaitanyajoshi2004"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+---
+
+## 🕶️ Hacker About Me  
+
+🔐 Passionate **Computer Engineer** specializing in **Cybersecurity, Mobile Apps & Automation**  
+📡 Exploring **Next-Gen Connectivity & Secure Systems**  
+⚡ Building **scalable apps** with **Flutter, Firebase, Python, and AI-driven tools**  
 
 ---
 
-## 🌟 About Me  
-
-🎓 Pursuing **Computer Engineering (SPPU)** with a passion for **mobile app development, cybersecurity, and Python automation**.  
-💡 Skilled in **Flutter, Firebase, REST APIs, Encryption** and **IoT systems**.  
-⚡ Dedicated to building **secure, modern, and scalable solutions**.  
-
----
-
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack (3D Hacker Arsenal)  
 
 ### 🚀 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,java,js,cpp,c,sql" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>
 </p>
+
+---
 
 ### 📱 Mobile & Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,html,css,figma" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80"/>
 </p>
+
+---
 
 ### 🔧 Backend & Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,sqlite" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80"/>
 </p>
+
+---
 
 ### ☁️ DevOps & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"/>
 </p>
+
+---
 
 ### 🛠️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,linux" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="80"/>
 </p>
 
 ---
 
-## 🎓 Education  
-
-🎓 **BE Computer Engineering** – Savitribai Phule Pune University (2023 – 2026) | GPA: 9.43/10  
-🎓 **Diploma in Computer Engineering** – MSBTE (2020 – 2023) | 90.80%  
-🎓 **SSC** – New Model English School (2010 – 2020)  
-
----
-
-## 💼 Experience  
-
-- **Automation Engineer Intern – KSB Tech Pvt. Ltd. (2025 – Present)**  
-  ⏩ Python-based GUI automation for pump retrofit → **50% faster analysis**.  
-
-- **Mobile App Developer Intern – TechEntrepreneurs (2023)**  
-  ⏩ Built **Regrowth App** in Flutter + Firebase → **8+ screens, Auth, REST APIs**.  
-
-- **Cybersecurity Intern – Pinnacle Labs (2024)**  
-  ⏩ AES/DES encryption, password analyzer tool → **90% accuracy**.  
-
-- **Python Developer Intern – Domain IT (2023)**  
-  ⏩ CLI encryption tools, password analyzers in Python.  
-
----
-
-## 📂 Projects  
-
-- 🚀 **Regrowth App** → Flutter + Firebase clinic management & habit tracker  
-- 👁️ **InVision Attendance System** → Face recognition with Python & OpenCV  
-- ✏️ **Multi-User Drawing Tool** → C++ collaborative classroom chalkboard  
-- 📅 **Desktop Calendar** → C#, .NET, SQL shared scheduling  
-- 🖥️ **Custom OS** → C-based mini operating system  
-
----
-
-## 🏆 Certifications  
-
-✔️ Google – Introduction to Generative AI  
-✔️ GUVI – AI for India 2.0 (Face Recognition + Python)  
-✔️ DevTown – Backend Bootcamp (AWS + GDSC)  
-✔️ Pinnacle Labs – Cybersecurity Internship  
-✔️ CodSoft – Python Development Internship  
-
----
-
-## 📊 GitHub Analytics  
+## 📊 Hacker Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyajoshi2004&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajoshi2004&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyajoshi2004&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajoshi2004&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyajoshi2004&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyajoshi2004&theme=highcontrast&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00" height="180"/>
+</p>
+
+<!-- Hacker Radar / Sonar effect (SVG graph) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 Hacker Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyajoshi2004&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyajoshi2004&theme=matrix&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 🛰️ Cyber Contact  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyajoshi2004&theme=tokyo-night&hide_border=true" width="100%"/>
+  <a href="mailto:joshichaitanya2611@gmail.com"><img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="70"/></a>
+  <a href="https://linkedin.com/in/chaitanya-anil-joshi"><img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="70"/></a>
+  <a href="https://github.com/chaitanyajoshi2004"><img src="https://img.icons8.com/fluency/96/000000/github.png" width="70"/></a>
 </p>
 
 ---
 
-## 📫 Let’s Connect  
+<h3 align="center">💀 Hack The Future | Secure The Present 💀</h3>
 
-<p align="center">
-  <a href="mailto:joshichaitanya2611@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="60"/></a>
-  <a href="https://linkedin.com/in/chaitanya-anil-joshi"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="60"/></a>
-  <a href="https://github.com/chaitanyajoshi2004"><img src="https://img.icons8.com/clouds/100/000000/github.png" width="60"/></a>
-</p>
-
----
-
-<h3 align="center">✨ “Simplifying Appointments, Securing Healthcare.” ✨</h3>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/images/wave.svg" width="100%" height="100px">
+<!-- Matrix Code Divider -->
+<img src="https://i.ibb.co/8YwP9M5/matrix-code.gif" width="100%" height="150">
