@@ -1,21 +1,79 @@
-# 💫 About Me:
-### Chaitanya Anil Joshi | About Me<br><br>* [cite_start]🔭 I’m currently working on building a Python-based GUI tool to automate pump retrofit analysis, which has reduced analysis time by 50%[cite: 35, 37]. [cite_start]I also automate internal engineering tasks, saving the team about 10 hours per week[cite: 38].<br>* [cite_start]👯 I’m looking to collaborate on open-source projects, especially those involving Flutter, Python automation, or cybersecurity tools[cite: 7, 12, 13].<br>* [cite_start]🤝 I’m looking for help with advancing my knowledge in Machine Learning and Blockchain Technology[cite: 23].<br>* [cite_start]🌱 I’m currently learning about Generative AI, as well as Deep Learning and High Performance Computing[cite: 23, 80].<br>* 💬 Ask me about:<br>    * [cite_start]Building cross-platform apps with Flutter and Firebase[cite: 8, 44].<br>    * [cite_start]Python automation and creating GUI tools[cite: 35, 39].<br>    * [cite_start]Cybersecurity concepts like AES/DES encryption and password analyzers[cite: 46, 50, 51].<br>    * [cite_start]Creating real-time face recognition systems using Python[cite: 76, 77].<br>* [cite_start]⚡ Fun fact: I'm a Computer Engineering student with a GPA of 9.43/10[cite: 20, 21].
+# 💫 About Me  
 
+### Hi, I'm **Chaitanya Anil Joshi** 🚀  
+I’m a Computer Engineering student (GPA: **9.43/10**) passionate about building intelligent systems, automation tools, and cross-platform applications.  
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshichaitanya2611@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chaitanyajoshi2004&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chaitanyajoshi2004&theme=city_lights&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajoshi2004&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chaitanyajoshi2004&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
+- 🔭 Currently building a **Python-based GUI tool** to automate pump retrofit analysis (reduced analysis time by **50%**).  
+- ⚙️ Automating internal engineering workflows, saving ~**10 hours/week** for my team.  
+- 👯 Looking to collaborate on **open-source projects** in **Flutter, Python automation, and Cybersecurity**.  
+- 🌱 Currently exploring **Generative AI, Deep Learning, and High-Performance Computing**.  
+- 🤝 Open to learning and contributing to **Machine Learning** and **Blockchain** projects.  
+- 💬 Ask me about:  
+  - Cross-platform apps with **Flutter + Firebase**  
+  - Python automation & GUI development  
+  - Cybersecurity (AES/DES encryption, password analyzers)  
+  - Real-time face recognition systems in Python  
+- ⚡ Fun fact: I blend **software engineering** with **research-driven problem solving** to deliver practical, scalable solutions.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chaitanyajoshi2004&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshichaitanya2611@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/chaitanyajoshi2004)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyajoshi2004)  
+
+---
+
+# 💻 Tech Stack  
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+
+**Data & AI:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=Matplotlib&logoColor=black)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)  
+
+**DevOps & Tools:**  
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+
+**Other Skills:**  
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)  
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?logo=cisco&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=white)  
+
+---
+
+# 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=chaitanyajoshi2004&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=chaitanyajoshi2004&theme=city_lights&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajoshi2004&theme=city_lights&hide_border=false&layout=compact)  
+
+---
+
+### 🔝 Top Contributed Repositories  
+![](https://github-contributor-stats.vercel.app/api?username=chaitanyajoshi2004&limit=5&theme=city_lights&combine_all_yearly_contributions=true)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=chaitanyajoshi2004&icon=5&color=9)](https://visitcount.itsvg.in)  
+
+<!-- Profile crafted with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
