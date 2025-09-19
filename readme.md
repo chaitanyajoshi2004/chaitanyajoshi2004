@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 Hacker Analytics  
+## 📊  Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chaitanyajoshi2004&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00FF88&icon_color=00FF88" height="180"/>
@@ -89,7 +89,7 @@
 
 ---
 
-## 📡 Hacker Contact  
+## 📡  Contact  
 
 <p align="center">
   <a href="mailto:joshichaitanya2611@gmail.com"><img src="https://img.icons8.com/fluency/96/00FF88/gmail.png" width="70"/></a>
