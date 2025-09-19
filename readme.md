@@ -30,10 +30,19 @@
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,dart,r" /><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,react,reactnative,django,tensorflow" /><br/>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,css,dart,r" /><br/>
+  
+  <!-- Frameworks & Mobile -->
+  <img src="https://skillicons.dev/icons?i=flutter,react,reactnative,django,tensorflow,wordpress" /><br/>
+  
+  <!-- Databases & Data Science -->
   <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,mysql,mongodb,firebase,sqlite" /><br/>
+  
+  <!-- DevOps & Tools -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,postman,powershell,bash" /><br/>
+  
+  <!-- IoT & Design -->
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,figma,canva,vscode,androidstudio" />
 </p>
 
