@@ -52,10 +52,26 @@
 
 ---
 
-## 🐍 Snake Contributions  
+## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chaitanyajoshi2004/chaitanyajoshi2004/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyajoshi2004&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyajoshi2004&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## 📌 Profile Summary  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyajoshi2004&theme=radical"/>
 </p>
 
 ---
@@ -71,6 +87,5 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=chaitanyajoshi2004&icon=5&color=9" alt="Profile Views"/>
 </p>
-
 
 ---
