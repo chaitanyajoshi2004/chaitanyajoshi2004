@@ -1,128 +1,21 @@
-I can create a professional GitHub profile README for Chaitanya Anil Joshi based on the provided resume. The README will highlight his skills, experience, and projects in a clear and engaging format.
+# 💫 About Me:
+### Chaitanya Anil Joshi | About Me<br><br>* [cite_start]🔭 I’m currently working on building a Python-based GUI tool to automate pump retrofit analysis, which has reduced analysis time by 50%[cite: 35, 37]. [cite_start]I also automate internal engineering tasks, saving the team about 10 hours per week[cite: 38].<br>* [cite_start]👯 I’m looking to collaborate on open-source projects, especially those involving Flutter, Python automation, or cybersecurity tools[cite: 7, 12, 13].<br>* [cite_start]🤝 I’m looking for help with advancing my knowledge in Machine Learning and Blockchain Technology[cite: 23].<br>* [cite_start]🌱 I’m currently learning about Generative AI, as well as Deep Learning and High Performance Computing[cite: 23, 80].<br>* 💬 Ask me about:<br>    * [cite_start]Building cross-platform apps with Flutter and Firebase[cite: 8, 44].<br>    * [cite_start]Python automation and creating GUI tools[cite: 35, 39].<br>    * [cite_start]Cybersecurity concepts like AES/DES encryption and password analyzers[cite: 46, 50, 51].<br>    * [cite_start]Creating real-time face recognition systems using Python[cite: 76, 77].<br>* [cite_start]⚡ Fun fact: I'm a Computer Engineering student with a GPA of 9.43/10[cite: 20, 21].
 
-### Chaitanya Anil Joshi | Computer Engineering Student
 
-\<p align="center"\>
-\<img src="[https://readme-typing-svg.herokuapp.com?size=32\&duration=3000\&color=00FF88\&background=000000\&center=true\&vCenter=true\&width=900\&lines=Chaitanya+Anil+Joshi;Computer+Engineering+Student;Cybersecurity+Enthusiast;Flutter+Developer;Python+Automation](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Fsize%3D32%26duration%3D3000%26color%3D00FF88%26background%3D000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D900%26lines%3DChaitanya%2BAnil%2BJoshi%3BComputer%2BEngineering%2BStudent%3BCybersecurity%2BEnthusiast%3BFlutter%2BDeveloper%3BPython%2BAutomation)" alt="Typing SVG" /\>
-\</p\>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshichaitanya2611@gmail.com) 
 
------
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chaitanyajoshi2004&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=chaitanyajoshi2004&theme=city_lights&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajoshi2004&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻 About Me
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chaitanyajoshi2004&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
 
-[cite\_start]I'm Chaitanya Anil Joshi, a Computer Engineering student from Pune, Maharashtra, with a strong GPA of 9.43/10[cite: 1, 3, 21]. [cite\_start]My skills are in mobile development, Python, and cybersecurity[cite: 7]. [cite\_start]I specialize in building **secure, scalable, and futuristic apps** using technologies like Flutter, Firebase, and REST APIs[cite: 8]. [cite\_start]I have a strong analytical mindset and focus on clean code, secure systems, and agile collaboration[cite: 9].
+---
+[![](https://visitcount.itsvg.in/api?id=chaitanyajoshi2004&icon=5&color=9)](https://visitcount.itsvg.in)
 
------
-
-## 🛠️ Tech Arsenal
-
-### 🚀 Languages
-
-\<p align="center"\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="Python" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)" alt="Dart" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" alt="JavaScript" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" alt="Java" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)" alt="C++" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)" alt="C" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg)" alt="SQL" width="80"/\>
-\</p\>
-
-### 📱 Mobile & Frontend
-
-\<p align="center"\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)" alt="Flutter" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)" alt="Android" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" alt="React" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" alt="HTML5" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" alt="CSS3" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)" alt="Figma" width="80"/\>
-\</p\>
-
-### 🔧 Backend & Databases
-
-\<p align="center"\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" alt="Node.js" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)" alt="Express.js" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)" alt="Firebase" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)" alt="MongoDB" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" alt="MySQL" width="80"/\>
-\</p\>
-
-### ☁️ DevOps & Cloud
-
-\<p align="center"\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" alt="Docker" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)" alt="Kubernetes" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" alt="GitHub" width="80"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" alt="Linux" width="80"/\>
-\</p\>
-
------
-
-## 💼 Experience
-
-### **Automation Engineer Intern** at KSB Tech Pvt. Ltd.
-
-(Pune, Maharashtra | June 2025 - Present) [cite\_start][cite: 34, 36, 37]
-
-  - [cite\_start]Built a Python-based GUI tool that reduced pump retrofit analysis time by 50%[cite: 35].
-  - [cite\_start]Automated workflows for internal engineering tasks, saving 10 hours/week for the team[cite: 38].
-  - [cite\_start]Practiced industrial Python automation and GUI strategy[cite: 39].
-
-### **Mobile App Developer Intern** at Tech Entrepreneurs
-
-(Pune, Maharashtra | June 2003 - August 2003) [cite\_start][cite: 41, 42, 43]
-
-  - [cite\_start]Delivered 8+ functional screens in 5 weeks for the **Regrowth mobile app** using Flutter and Firebase[cite: 44].
-  - [cite\_start]Integrated Firebase Auth and REST APIs to support secure logins and real-time data updates[cite: 44].
-  - [cite\_start]Reduced user onboarding drop-off by 30% with responsive UI designs built in Figma[cite: 45].
-
-### **Cybersecurity Intern** at Pinnacle Labs
-
-(Remote | July 2024 - August 2024) [cite\_start][cite: 47, 48, 49]
-
-  - [cite\_start]Implemented **AES/DES encryption** for data protection, securing over 100 files from unauthorized access[cite: 50].
-  - [cite\_start]Built and tested a **password analyzer CLI tool** that flagged weak credentials with 90% accuracy[cite: 51].
-
------
-
-## 📂 Featured Projects
-
-### **Regrowth - Mobile Application**
-
-  - [cite\_start]Developed a cross-platform app for appointments and habit tracking[cite: 74].
-  - [cite\_start]**Tools Used:** Flutter, Dart, Firebase, REST API, Provider, and Figma[cite: 75].
-
-### **InVision Smart Attendance System**
-
-  - [cite\_start]Built a real-time face recognition attendance system using **Python, OpenCV, and dlib**[cite: 77].
-  - [cite\_start]Designed a GUI in Tkinter and stored records with an SQLite database[cite: 78].
-
-### **Custom Operating System**
-
-  - [cite\_start]Built a UNIX-style OS with a scheduler, file system, text editor, and calculator[cite: 71].
-  - [cite\_start]**Tools Used:** C[cite: 71].
-
------
-
-## 🏆 Certifications
-
-  - [cite\_start]**Google** Introduction to Generative AI [cite: 80]
-  - [cite\_start]**GUVIAI** for India 2.0 (Face Recognition + Python) [cite: 81]
-  - [cite\_start]**DevTown** - Backend Bootcamp (with AWS + GDSC) [cite: 82]
-  - [cite\_start]**Pinnacle Labs** Cybersecurity Internship [cite: 83]
-  - [cite\_start]**CodSoft** Python Development Internship [cite: 84]
-
------
-
-\<p align="center"\>
-\<a href="mailto:joshichaitanya2611@gmail.com"\>\<img src="[https://img.icons8.com/fluency/96/00FF88/gmail.png](https://www.google.com/search?q=https://img.icons8.com/fluency/96/00FF88/gmail.png)" width="70" alt="Gmail"/\>\</a\>
-\<a href="[https://linkedin.com/in/chaitanya-anil-joshi](https://www.google.com/search?q=https://linkedin.com/in/chaitanya-anil-joshi)"\>\<img src="[https://img.icons8.com/fluency/96/00FF88/linkedin.png](https://www.google.com/search?q=https://img.icons8.com/fluency/96/00FF88/linkedin.png)" width="70" alt="LinkedIn"/\>\</a\>
-\<a href="[https://github.com/chaitanyajoshi2004](https://www.google.com/search?q=https://github.com/chaitanyajoshi2004)"\>\<img src="[https://img.icons8.com/fluency/96/00FF88/github.png](https://www.google.com/search?q=https://img.icons8.com/fluency/96/00FF88/github.png)" width="70" alt="GitHub"/\>\</a\>
-\</p\>
-
-\<h3 align="center"\>⚡ Hack The Future | Secure The Present ⚡\</h3\>
-\<p align="center"\>
-\<img src="[https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg](https://www.google.com/search?q=https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Snake" /\>
-\</p\>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
